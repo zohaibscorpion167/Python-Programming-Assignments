@@ -1,0 +1,42 @@
+h1{
+    color:#9370DB;
+    text-align: center;
+    text-decoration-line: underline;
+}
+.table{
+    background-color: #9370DB;
+
+
+}
+td{
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+
+}
+#tick{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+}
+#TY{
+    color: green;
+    margin-left: auto;
+    margin-right: auto;
+    width:22%;
+    font-size: 40px;
+}
+#sY{
+    color: purple ;
+    margin-left: auto;
+    margin-right: auto;
+    width:45%;
+    font-size: 30px;
+}
+#aY{
+    color: purple ;
+    margin-left: auto;
+    margin-right: auto;
+    width:15%;
+    font-size: 30px;
+}
